@@ -23,4 +23,19 @@ These instructions will help you get a copy of the project up and running on you
 1. **Clone the repository:**
 
    ```shell
-   git clone https://github.com/your-username/simple-android-calculator.git
+   git clone https://github.com/your-username/simple-android-calculator.git'
+2.**Open the project:**
+
+Use Android Studio to open the project folder.
+
+3.**Build and run:**
+
+Build and run the app on an Android emulator or physical device.
+
+##Built With
+
+JavaScript - The programming language used
+Android Studio - The IDE used for Android development
+
+##Authors
+Kavinkumar - 
