@@ -1,6 +1,6 @@
 # Simple Android Calculator App
 
-Welcome to the Simple Android Calculator App repository! This repository contains a straightforward Android calculator app that performs basic arithmetic operations.It has both dark and light mode. It's an ideal starting point for beginners in Android app development.
+This a Simple Android Calculator App repository! This repository contains a straightforward Android calculator app that performs basic arithmetic operations.It has both dark and light mode. It's an ideal starting point for beginners in Android app development.
 
 ## Features
 
@@ -22,7 +22,7 @@ Welcome to the Simple Android Calculator App repository! This repository contain
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 1. **Clone the repository:**
 ```
-git clone https://github.com/your-username/simple-android-calculator.git
+git clone https://github.com/Kavinkumar442005/Simple-Calculator.git
 ```
 2. **Open the project:**
 
