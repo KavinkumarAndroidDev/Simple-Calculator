@@ -11,7 +11,8 @@ Welcome to the Simple Android Calculator App repository! This repository contain
 
 ## Preview
 
-![Dark mode screenshot](Dark%20mode%20calculator.jpg?raw=true "Title")
+## Dark mode
+![Dark mode calculator](https://github.com/Kavinkumar442005/Simple-Calculator/assets/149078693/23932214-3f5c-4ee8-9c6e-5b145da8a357)
 
 ## Light mode
 ![Light mode calculator](https://github.com/Kavinkumar442005/Simple-Calculator/assets/149078693/39e578fa-3dd6-4bc7-9639-e783abd86074)
