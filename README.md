@@ -32,10 +32,10 @@ Use Android Studio to open the project folder.
 
 Build and run the app on an Android emulator or physical device.
 
-##Built With
+## Built With
 
 JavaScript - The programming language used
 Android Studio - The IDE used for Android development
 
-##Authors
+## Authors
 Kavinkumar - 
