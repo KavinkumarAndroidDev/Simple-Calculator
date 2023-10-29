@@ -20,8 +20,8 @@ These instructions will help you get a copy of the project up and running on you
 
 1. **Clone the repository:**
 
-   ```shell
-   git clone https://github.com/your-username/simple-android-calculator.git'
+   ```shell'
+   git clone https://github.com/your-username/simple-android-calculator.git
 2.**Open the project:**
 
 Use Android Studio to open the project folder.
