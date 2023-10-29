@@ -1,8 +1,6 @@
-# Simple-Calculator
-A simple android calculator,which can perform basic arithmetic problem.It has both dark and light mode
 # Simple Android Calculator App
 
-Welcome to the Simple Android Calculator App repository! This repository contains a straightforward Android calculator app that performs basic arithmetic operations. It's an ideal starting point for beginners in Android app development.
+Welcome to the Simple Android Calculator App repository! This repository contains a straightforward Android calculator app that performs basic arithmetic operations.It has both dark and light mode. It's an ideal starting point for beginners in Android app development.
 
 ## Features
 
@@ -38,4 +36,4 @@ JavaScript - The programming language used
 Android Studio - The IDE used for Android development
 
 ## Authors
-Kavinkumar - 
+Kavinkumar - https://github.com/Kavinkumar442005
