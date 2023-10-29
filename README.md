@@ -9,11 +9,12 @@ Welcome to the Simple Android Calculator App repository! This repository contain
 - Multiplication
 - Division
 
-## Screenshots
+## Preview
 
 ![Dark mode screenshot](Dark%20mode%20calculator.jpg?raw=true "Title")
 
-![Light mode screenshot](https://github.com/Kavinkumar442005/Simple-Calculator/blob/master/Light%20mode%20calculator.jpg?raw=true "Title")
+## Light mode
+![Light mode calculator](https://github.com/Kavinkumar442005/Simple-Calculator/assets/149078693/39e578fa-3dd6-4bc7-9639-e783abd86074)
 
 ## Getting Started
 
