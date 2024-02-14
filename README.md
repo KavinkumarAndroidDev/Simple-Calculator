@@ -22,7 +22,7 @@ This a Simple Android Calculator App repository! This repository contains a stra
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 1. **Clone the repository:**
 ```
-git clone https://github.com/Kavinkumar442005/Simple-Calculator.git
+git clone https://github.com/KavinkumarAndroidDev/Simple-Calculator.git
 ```
 2. **Open the project:**
 
@@ -39,4 +39,4 @@ JavaScript - The programming language used
 Android Studio - The IDE used for Android development
 
 ## Authors
-Kavinkumar - https://github.com/Kavinkumar442005
+Kavinkumar - https://github.com/KavinkumarAndroidDev
